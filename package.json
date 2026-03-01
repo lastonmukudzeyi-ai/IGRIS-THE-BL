@@ -1,5 +1,5 @@
 {
-    "name": "whatsapp-md-bot",
+    "name": "IGRIS THE BL",
     "version": "1.0.0",
     "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
     "main": "index.js",
@@ -11,12 +11,12 @@
     },
     "keywords": [
         "whatsapp bot",
-        "Knight Bot Mini",
+        "IGRISBLOODRED",
         "bot",
         "baileys",
         "md"
     ],
-    "author": "Your Name",
+    "author": "TMx93",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
